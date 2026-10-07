@@ -15,8 +15,3 @@ The font suits anything aiming to convey a bold, tech-forward spirit. It’s not
 
 # More examples and full download
 Online font tester, full download at [burba.pro/roundo-cyrillic/](http://burba.pro/roundo-cyrillic/)
-
-# Examples
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5eff037-de6f-4858-87cf-b31b8f1b2779" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a7980a7-2d08-43ae-a65c-2ce9fcacb3bd" />
-
