@@ -13,4 +13,4 @@ The font suits anything aiming to convey a bold, tech-forward spirit. It’s not
 - **License:** SIL OFL 1.1
 - **In russian:** Roundo Cyrillic — это геометрическо-гуманистический гротеск с отсылкой к Johnston Underground. В заглавных буквах шрифт более геометрический и даже немного футуристический. В маленьких буквах — больше гуманистичности. За основу взят OFL шрифт Roundo от ITF. Шрифт подойдет для всего, где хочется передать смелый и технологичный дух. Не подойдет для булочной, детского сада, магазина игрушек и т.д.
 
-# Full download at [burba.pro/work-sans-cyrillic/](http://burba.pro/work-sans-cyrillic/)
+# Full download at [burba.pro/roundo-cyrillic/](http://burba.pro/roundo-cyrillic/)
